@@ -1,0 +1,12 @@
+# result
+*.tgz
+
+# sources
+*.tar.gz
+
+# result folder
+rbenv
+
+# convenience link
+ruby-build
+
